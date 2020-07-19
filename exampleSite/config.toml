@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "http://demo.themefisher.com/airspace-hugo/"
+baseURL = "/"
 title = "Ingane Health | Digital Health Solutions"
 theme = "airspace-hugo"
 # post pagination
