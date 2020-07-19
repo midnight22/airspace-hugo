@@ -3,7 +3,15 @@ about:
   enable : true
   image : "images/company/person-holding-blue-ballpoint-pen-on-white-notebook-669610.jpg"
   title : "We strive to democratize data."
-  content : "We understand the "
+  content : "An Android app for community health workers to
+
+- Identify child at risk for disability or developmental delays
+- Provide health information
+- Show nearest clinics and care centres
+- Track at-risk individuals
+
+With access to mobile screening, we enable users to identify childhood disorders without extensive training.
+"
 
   # button:
   #   enable : true
@@ -47,19 +55,19 @@ features:
   title : "Data-driven health solutions"
   feature_item:
     # feature item loop
-    - icon : "ion-ios-color-filter-outline" #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : "ion-iphone" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Mobile Development"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content : "Low-connectivity, responsive solutions"
 
     # feature item loop
-    - icon : "ion-ios-unlocked-outline" #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : "ion-erlenmeyer-flask" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Data Science"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content : "Tested detection algorithms"
 
     # feature item loop
-    - icon : "ion-ios-game-controller-b-outline" #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : "ion-stats-bars" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Analytics"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content : "Risk statistics, dashboards and more"
 
 
 #################################### testimonial & mission vision #######################################
@@ -72,36 +80,45 @@ mission_vision:
   tabs:
     # tab item loop
     - name : "Vision"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-      harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-      quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-      voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-      iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-      suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-      illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-      temporibus eos sequi alias hic nemo."
+      content : "Our vision is to reduce the economic and social effects of
+       developmental delays by giving parents, community health workers, and
+       early child development staff the motivation and ability to access
+       interventions and augmentative services so that children with developmental
+       disabilities and delays can achieve the best possible development outcomes."
 
     # tab item loop
     - name : "Mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-      harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-      quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-      voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-      iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-      suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-      illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-      temporibus eos sequi alias hic nemo."
+      content : "Identify and Escalate
+
+
+      We can help children thrive by providing:
+
+     - Early identification of childhood disorders.
+
+    - Communication guidelines for health workers around childhood disabilities and risks.
+
+    - Information about knowledge-based intervention for families around the needs of the child.
+
+    Surveillance and monitoring of high-risk children who do not meet diagnostic criteria.
+
+    Appropriate referral to diagnostic centers and intervention services.
+
+    Family enablement to care and advocate for their child.
+
+    Reduced stigma."
+
 
     # tab item loop
     - name : "Approach"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-      harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-      quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-      voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-      iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-      suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-      illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-      temporibus eos sequi alias hic nemo."
+      content : "The Ingane Health app aims to improve the rate of detection of children with delayed development
+      in a way that is easier to use and more effective than current screening tools. The application gives
+      child and youth care workers updatable user-friendly tools in an easy to understand format for improved
+      identification of at-risk children, as well as a means to find the closest clinics, mental health or
+      other special needs facilities.
+
+      The screen takes approximately 5 minutes to complete, was designed to be used by laypersons with low
+      literacy and is free of cultural bias. It has excellent sensitivity and specificity and is appropriate
+      to use for children aged 0-6 years."
 
 
 ############################# call to action #################################
